@@ -8,7 +8,7 @@
 # allowed to edit the commit message file.
 #
 # To enable this hook, rename this file to "applypatch-msg".
-# 交给git-am调用的钩子
+# 交给git-am调用的钩子, git am执行前
 
 . git-sh-setup
 commitmsg="$(git rev-parse --git-path hooks/commit-msg)"

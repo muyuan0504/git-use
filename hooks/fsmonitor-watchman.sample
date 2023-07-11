@@ -1,3 +1,11 @@
+/*
+ * @Author: AidenPeng 972523881@qq.com
+ * @Date: 2023-07-11 12:52:32
+ * @LastEditors: AidenPeng 972523881@qq.com
+ * @LastEditTime: 2023-07-11 20:48:08
+ * @FilePath: \git-use\hooks\fsmonitor-watchman.sample
+ * @Description: 这是默认设置,请设置`customMade`, 打开koroFileHeader查看配置 进行设置: https://github.com/OBKoro1/koro1FileHeader/wiki/%E9%85%8D%E7%BD%AE
+ */
 #!/usr/bin/perl
 
 use strict;
